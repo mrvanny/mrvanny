@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Striver's SDE Sheet**
 
-- 🌱 I’m currently learning **Android development || Advanced Java || Spring**
+- 🌱 I’m currently learning **Android development || Advanced Java**
 
-- 👯 I’m looking to collaborate on **Open Source Projects[Java]**
+- ✌️ I’m looking to collaborate on **Open Source Projects[Java]**
 
 - 💬 Ask me about **Data structure || Java || Web Development || Python || Oop's**
 
