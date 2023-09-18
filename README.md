@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Data structure || Java || Web Development || Python || Oop's**
 
-- 😉 Call Me **Mr.Vanny**
+- 😉 Call Me **Vanny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
