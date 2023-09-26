@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Vasant</h1>
-<h3 align="center">Student</h3>
+<h3 align="center">Fresher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrvanny&label=Profile%20views&color=0eb482&style=flat" alt="mrvanny" /> </p>
 
-- 🔭 I’m currently working on **Striver's SDE Sheet**
+- 🔭 I’m currently working on **Restful API's**
 
-- 🌱 I’m currently learning **Android development || Advanced Java**
+- 🌱 I’m currently learning **Node Js**
 
-- ✌️ I’m looking to collaborate on **Open Source Projects[Java]**
+- ✌️ I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **Data structure || Java || Web Development || Python || Oop's**
+- 💬 Ask me about **Data structure || Java || SQL || Python || Oop's**
 
-- 😉 Call Me **Vanny**
+- 😉 Call Me **VB**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
