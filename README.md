@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrvanny&label=Profile%20views&color=0eb482&style=flat" alt="mrvanny" /> </p>
 
-- 🔭 I’m currently working on **Restful API's**
+- 🔭 I’m currently working on **Rest API's**
 
 - 🌱 I’m currently learning **Node Js**
 
